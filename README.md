@@ -21,6 +21,9 @@ The system retrieves relevant document chunks using semantic search and generate
 - Ollama (LLaMA)
 - Retrieval-Augmented Generation (RAG)
 
+### Question Answering
+![Answer](screenshots/answer.png)
+
 ## How It Works
 1. User inputs article URLs
 2. Articles are loaded and split into chunks
